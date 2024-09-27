@@ -1,10 +1,17 @@
 ```text
-Vanilla Arch / Arch-based Distro       10/10  ██████████████████████████░░░░░░ 100.00 %
-Fedora / Red Hat-based Distro          8/10   ███████████████████████░░░░░░░░░░ 80.00 %
-Ubuntu / Debian-based Distro           7/10   █████████████████████░░░░░░░░░░░░░ 70.00 %
-Mac OS                                 6/10   ███████████████████░░░░░░░░░░░░░░░ 60.00 %
-Windows 10                             3/10   █████████████░░░░░░░░░░░░░░░░░░░░░ 30.00 %
-Windows 11                             1/10   ████████░░░░░░░░░░░░░░░░░░░░░░░░░░ 10.00 %
+Vanilla Arch / Arch-based Distro       10/10  ████████████████████████████████████  100.00 %
+Fedora / Red Hat-based Distro          8/10   █████████████████████████████░░░░░░░  80.00 %
+Ubuntu / Debian-based Distro           7/10   █████████████████████████░░░░░░░░░░░  70.00 %
+Mac OS                                 6/10   █████████████████████░░░░░░░░░░░░░░░  60.00 %
+Windows 10                             3/10   ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░  30.00 %
+Windows 11                             1/10   ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  10.00 %
+```
+
+```text
+🌞 Morning                65 commits          ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   2.99 % 
+🌆 Daytime                605 commits         ███████████░░░░░░░░░░░░░░░░░░░░░░░░░   26.02 % 
+🌃 Evening                450 commits         ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░   19.05 % 
+🌙 Night                  1290 commits        █████████████████████░░░░░░░░░░░░░░░   56.93 % 
 ```
 
 ![Banner](https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc0NzU2MzIsIm5iZiI6MTcyNzQ3NTMzMiwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTI3VDIyMTUzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg2ZjIyNWVhMjQ4YTAwYTUzYWYwNGNjMzRiOGMwNzUzMDBkYmQ5ZDdlYTEyYWZjOGY1MDUyYjI1YjRmMjgyZTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.-JGWMfef5CSouwEw4lw3MP83CiodOBruZvHR7iHO2jM) 
