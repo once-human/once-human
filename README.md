@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Onkar Yaglewad!
-
 ![Banner](https://user-images.githubusercontent.com/112754335/225914032-81c09ea0-83d2-4531-b492-6b8217b7d03e.gif)
+
+# 👋 Hi, I'm Onkar Yaglewad!
 
 ## 🚀 About Me
 
