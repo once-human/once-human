@@ -1,14 +1,16 @@
 ![Banner](https://user-images.githubusercontent.com/112754335/225914032-81c09ea0-83d2-4531-b492-6b8217b7d03e.gif)
+[GIF](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 
-# 👋 Hi, I'm Onkar Yaglewad!
+# 👋 Hi, I'm once-human!
 
 ## 🚀 About Me
 
 I’m a passionate CSE student at DY Patil International University, Pune.
 
 - **Age**: 19
-- **Location**: Pune, Maharashtra, India
-- **Current OS**: I use vanilla arch btw !
+- **Location**: Pune, India
+- **Primary OS**: Vanilla Arch
+- **Wayland Compositor**: Hyprland
 
 I believe that true growth comes from facing and overcoming challenges. I love exploring tech, contributing to open-source projects, and experimenting with new technologies. My current venture is building **Impulse OS**, a user-friendly Arch-based Linux distribution designed for those eager to learn and tweak.
 
