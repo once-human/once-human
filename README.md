@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hi, I'm Onkar Yaglewad!
 
-<!--
-**once-human/once-human** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://user-images.githubusercontent.com/112754335/225914032-81c09ea0-83d2-4531-b492-6b8217b7d03e.gif)
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a passionate CSE student at DY Patil International University, Pune.
+
+- **Age**: 19
+- **Location**: Pune, Maharashtra, India
+- **Current OS**: I use vanilla arch btw !
+
+I believe that true growth comes from facing and overcoming challenges. I love exploring tech, contributing to open-source projects, and experimenting with new technologies. My current venture is building **Impulse OS**, a user-friendly Arch-based Linux distribution designed for those eager to learn and tweak.
+
+## 🌱 My Projects
+
+Here are some of the exciting projects I've worked on:
+
+- 🌐 **MahaDarshan**: A tourism website for exploring Maharashtra's famous places.
+- 👥 **Drip Limitless**: A social networking community with over 500 active users.
+- 🎧 **Norse Music Player**: A web and Android app with over 5,000 listeners.
+- 💻 **Linterex**: Contributed to the backend of a global community for hackers.
+- 🌎 **Atmos**: Worked on WebGL and VR development for a 3D interactive space platform.
+- 🤖 **Attendify**: Developed an AI-based attendance system for my university.
+- 💡 **Impulse OS**: An Arch-based distro aimed at making Linux approachable for beginners.
+
+## 🔧 Technologies & Tools
+
+I have experience with a variety of technologies, including but not limited to:
+
+- **Languages**: JavaScript, Python, C++, Java, HTML, CSS
+- **Frameworks**: Django, Flask, Node.js
+- **Tools**: Git, Docker, AWS, Firebase
+- **Operating Systems**: Arch, Fedora, Ubuntu, and more
+
+## 🌍 Connect with Me
+
+Feel free to reach out for collaboration or just a chat about technology!
+
+- [LinkedIn](https://linkedin.com/in/yaglewad-onkar)
+- [Instagram](https://instagram.com/yaglewad_onkar)
+- [Twitter](https://twitter.com/yaglewad_onkar)
+- [Stack Overflow](https://stackoverflow.com/users/21453288)
+- [CodeChef](https://www.codechef.com/users/yaglewad_onkar)
+- [HackerRank](https://www.hackerrank.com/yaglewad_onkar)
+- [LeetCode](https://www.leetcode.com/yaglewad_onkar)
+
+---
+
+## 🌟 Let's Connect and Build Together!
+
+I'm always open to discussing innovative projects, so don’t hesitate to drop a message!
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=once-human&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=once-human&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=once-human&theme=tokyonight_duo&hide_border=true)
