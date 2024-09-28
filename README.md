@@ -19,6 +19,7 @@ I’m a passionate CSE student at DY Patil International University, Pune.
 🌃 Evening                450 commits         ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░   19.05 % 
 🌙 Night                  1290 commits        █████████████████████░░░░░░░░░░░░░░░   56.93 %
 ```
+[![Onkar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=once-human&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 💻 My Favorite Operating Systems
 
@@ -30,8 +31,6 @@ Mac OS                                 6/10   ███████████�
 Windows 10                             3/10   ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░  30.00 %
 Windows 11                             1/10   ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  10.00 %
 ```
-
-I believe that true growth comes from facing and overcoming challenges. I love exploring tech, contributing to open-source projects, and experimenting with new technologies. My current venture is building **Impulse OS**, a user-friendly Arch-based Linux distribution designed for those eager to learn and tweak.
 
 ## 🌱 My Projects
 
