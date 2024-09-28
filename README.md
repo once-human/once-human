@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/once-human/once-human/refs/heads/main/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e%20(1).gif) 
+![Banner](https://raw.githubusercontent.com/once-human/once-human/refs/heads/main/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e%20(1).gif)
 
 # 👋 Hi, I'm once-human!
 
@@ -11,6 +11,8 @@ I’m a passionate CSE student at DY Patil International University, Pune.
 - **Primary OS**: Vanilla Arch
 - **Wayland Compositor**: Hyprland
 
+## 💻 My Favorite Operating Systems
+
 ```text
 Vanilla Arch / Arch-based Distro       10/10  ████████████████████████████████████  100.00 %
 Fedora / Red Hat-based Distro          8/10   █████████████████████████████░░░░░░░  80.00 %
@@ -20,56 +22,51 @@ Windows 10                             3/10   ██████████░�
 Windows 11                             1/10   ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  10.00 %
 ```
 
+## 🌙 My GitHub Activity
+
 ```text
 🌞 Morning                65 commits          ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   2.99 % 
 🌆 Daytime                605 commits         ███████████░░░░░░░░░░░░░░░░░░░░░░░░░   26.02 % 
 🌃 Evening                450 commits         ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░   19.05 % 
-🌙 Night                  1290 commits        █████████████████████░░░░░░░░░░░░░░░   56.93 % 
+🌙 Night                  1290 commits        █████████████████████░░░░░░░░░░░░░░░   56.93 %
 ```
 
 I believe that true growth comes from facing and overcoming challenges. I love exploring tech, contributing to open-source projects, and experimenting with new technologies. My current venture is building **Impulse OS**, a user-friendly Arch-based Linux distribution designed for those eager to learn and tweak.
 
 ## 🌱 My Projects
 
-Here are some of the exciting projects I've worked on:
+If you're interested in my Past Projects, check out my GitHub repositories [here](https://github.com/once-human?tab=repositories).
+<br>
 
 - 🌐 **MahaDarshan**: A tourism website for exploring Maharashtra's famous places.
 - 👥 **Drip Limitless**: A social networking community with over 500 active users.
 - 🎧 **Norse Music Player**: A web and Android app with over 5,000 listeners.
-- 💻 **Linterex**: Contributed to the backend of a global community for hackers.
 - 🌎 **Atmos**: Worked on WebGL and VR development for a 3D interactive space platform.
 - 🤖 **Attendify**: Developed an AI-based attendance system for my university.
-- 💡 **Impulse OS**: An Arch-based distro aimed at making Linux approachable for beginners.
+
+I'm Currently working on -
+<br>
+
+- 💻 [**Legacy**](https://github.com/once-human/SIH-Legacy) : An Alumni Association Platform cross platform app made using Flutter
+- 💡 [**Impulse OS**](https://github.com/impulse-os/impulseos-live) : An Arch-based distro aimed at making Linux approachable for beginners.
 
 ## 🔧 Technologies & Tools
 
 I have experience with a variety of technologies, including but not limited to:
 
-- **Languages**: JavaScript, Python, C++, Java, HTML, CSS
-- **Frameworks**: Django, Flask, Node.js
-- **Tools**: Git, Docker, AWS, Firebase
-- **Operating Systems**: Arch, Fedora, Ubuntu, and more
+- **Languages**: PHP, Dart, Python, C++, JavaScript, Java (entry-level), Node.js (entry-level)
+- **Frameworks**: Bootstrap, Flutter, Django, React.js (entry-level)
+- **Tools**: MySQL, MongoDB, Git, AWS, Figma, Apache, Nginx, Redis
+- **Operating Systems**: Arch, Fedora, Ubuntu, macOS, Windows (all in detail)
 
 ## 🌍 Connect with Me
 
 Feel free to reach out for collaboration or just a chat about technology!
 
-- [LinkedIn](https://linkedin.com/in/yaglewad-onkar)
-- [Instagram](https://instagram.com/yaglewad_onkar)
-- [Twitter](https://twitter.com/yaglewad_onkar)
-- [Stack Overflow](https://stackoverflow.com/users/21453288)
-- [CodeChef](https://www.codechef.com/users/yaglewad_onkar)
-- [HackerRank](https://www.hackerrank.com/yaglewad_onkar)
-- [LeetCode](https://www.leetcode.com/yaglewad_onkar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaglewad-onkar/)  [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yaglewad\_onkar)  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/oncehuman7)  [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white)](https://t.me/overclock7)  [![CV/Resume](https://img.shields.io/badge/CV/Resume-000000?style=flat&logo=pdf&logoColor=white)](https://github.com/once-human/once-human/blob/main/Onkar%20Yaglewad%20CV%20V2.pdf)
 
 ---
 
 ## 🌟 Let's Connect and Build Together!
 
 I'm always open to discussing innovative projects, so don’t hesitate to drop a message!
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=once-human&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=once-human&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=once-human&theme=tokyonight_duo&hide_border=true)
