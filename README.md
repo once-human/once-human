@@ -25,6 +25,7 @@ I’m a passionate CSE student at DY Patil International University, Pune.
 </div>
 
 [![once-human's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=once-human&theme=gotham&hide_border=true&count_private=true)](https://github.com/once-human/github-readme-activity-graph)
+[![once-human's github trophy graph](https://github-profile-trophy.vercel.app/?username=once-human&no-bg=true)](https://github.com/once-human/github-readme-activity-graph)
 
 
 ## 💻 My Favorite Operating Systems
