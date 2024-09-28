@@ -20,13 +20,13 @@ I’m a passionate CSE student at DY Patil International University, Pune.
 🌙 Night                  1290 commits        █████████████████████░░░░░░░░░░░░░░░   56.93 %
 ```
 <div style="display: flex; justify-content: center; align-items: center; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=once-human&theme=gotham&show_icons=true&hide_border=true&count_private=true" width="400"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=once-human&theme=gotham&hide_border=true" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=once-human&theme=gotham&show_icons=true&hide_border=true&count_private=true" width="410"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=once-human&theme=gotham&hide_border=true" width="410"/>
 </div>
 <br/>
 <div style="text-align: center;">
     <a href="https://github.com/once-human/github-readme-activity-graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=once-human&theme=gotham&hide_border=true" width="600"/>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=once-human&theme=gotham&hide_border=true" width="820"/>
     </a>
 </div>
 
