@@ -19,7 +19,12 @@ I’m a passionate CSE student at DY Patil International University, Pune.
 🌃 Evening                450 commits         ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░   19.05 % 
 🌙 Night                  1290 commits        █████████████████████░░░░░░░░░░░░░░░   56.93 %
 ```
-![once-human's Stats](https://github-readme-stats.vercel.app/api?username=once-human&theme=gotham&show_icons=true&hide_border=true&count_private=true) ![once-human's Streak](https://github-readme-streak-stats.herokuapp.com/?user=once-human&theme=gotham&hide_border=true) ![once-human's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=once-human&theme=gotham&show_icons=true&hide_border=true&layout=compact) [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=once-human&theme=gotham&hide_border=true)](https://github.com/once-human/github-readme-activity-graph)
+<div style="display: flex; justify-content: space-around; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=once-human&theme=gotham&show_icons=true&hide_border=true&count_private=true" width="200"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=once-human&theme=gotham&hide_border=true" width="200"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=once-human&theme=gotham&show_icons=true&hide_border=true&layout=compact" width="200"/>
+    <a href="https://github.com/once-human/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=once-human&theme=gotham&hide_border=true" width="200"/></a>
+</div>
 
 
 ## 💻 My Favorite Operating Systems
