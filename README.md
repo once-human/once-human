@@ -19,25 +19,8 @@ I’m a passionate CSE student at DY Patil International University, Pune.
 🌃 Evening                450 commits         ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░   19.05 % 
 🌙 Night                  1290 commits        █████████████████████░░░░░░░░░░░░░░░   56.93 %
 ```
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+![once-human's Stats](https://github-readme-stats.vercel.app/api?username=once-human&theme=gotham&show_icons=true&hide_border=true&count_private=true) ![once-human's Streak](https://github-readme-streak-stats.herokuapp.com/?user=once-human&theme=gotham&hide_border=true) ![once-human's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=once-human&theme=gotham&show_icons=true&hide_border=true&layout=compact) [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=once-human&theme=gotham&hide_border=true)](https://github.com/once-human/github-readme-activity-graph)
 
-  <div style="flex: 1 1 200px; margin: 10px;">
-    ![once-human's Stats](https://github-readme-stats.vercel.app/api?username=once-human&theme=gotham&show_icons=true&hide_border=true&count_private=true)
-  </div>
-
-  <div style="flex: 1 1 200px; margin: 10px;">
-    ![once-human's Streak](https://github-readme-streak-stats.herokuapp.com/?user=once-human&theme=gotham&hide_border=true)
-  </div>
-
-  <div style="flex: 1 1 200px; margin: 10px;">
-    ![once-human's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=once-human&theme=gotham&show_icons=true&hide_border=true&layout=compact)
-  </div>
-
-  <div style="flex: 1 1 200px; margin: 10px;">
-    [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=once-human&theme=gotham&hide_border=true)](https://github.com/once-human/github-readme-activity-graph)
-  </div>
-
-</div>
 
 ## 💻 My Favorite Operating Systems
 
