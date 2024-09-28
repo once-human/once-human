@@ -19,7 +19,7 @@ I’m a passionate CSE student at DY Patil International University, Pune.
 🌃 Evening                450 commits         ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░   19.05 % 
 🌙 Night                  1290 commits        █████████████████████░░░░░░░░░░░░░░░   56.93 %
 ```
-[![Onkar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=once-human&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Onkar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=once-human&theme=gotham&hide_border=true)](https://github.com/once-human/github-readme-activity-graph)
 
 ## 💻 My Favorite Operating Systems
 
