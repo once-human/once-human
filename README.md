@@ -4,8 +4,6 @@
 
 ## 🚀 About Me
 
-I’m a passionate CSE student at DY Patil International University, Pune.
-
 - **Age**: 19
 - **Location**: Pune, India
 - **Primary OS**: Vanilla Arch
@@ -14,10 +12,10 @@ I’m a passionate CSE student at DY Patil International University, Pune.
 ## 🌙 My GitHub Activity
 
 ```text
-🌞 Morning                65 commits          ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   2.99 % 
-🌆 Daytime                605 commits         ███████████░░░░░░░░░░░░░░░░░░░░░░░░░   26.02 % 
-🌃 Evening                450 commits         ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░   19.05 % 
-🌙 Night                  1290 commits        █████████████████████░░░░░░░░░░░░░░░   56.93 %
+🌞 Morning                38  commits         ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   2.99 % 
+🌆 Daytime                192 commits         ███████████░░░░░░░░░░░░░░░░░░░░░░░░░   26.02 % 
+🌃 Evening                149 commits         ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░   19.05 % 
+🌙 Night                  474 commits         █████████████████████░░░░░░░░░░░░░░░   56.93 %
 ```
 <div style="display: flex; justify-content: center; align-items: center; text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=once-human&theme=gotham&show_icons=true&hide_border=true&count_private=true" width="410"/>
@@ -49,11 +47,12 @@ If you're interested in my Past Projects, check out my GitHub repositories [here
 - 🎧 **Norse Music Player**: A web and Android app with over 5,000 listeners.
 - 🌎 **Atmos**: Worked on WebGL and VR development for a 3D interactive space platform.
 - 🤖 **Attendify**: Developed an AI-based attendance system for my university.
+- 💻 [**Synthetiq**](https://github.com/once-human/synthetiq) :Placement portal designed to connect students with job opportunities.
+- 🎓 [**Legacy**](https://github.com/once-human/SIH-Legacy) : An Alumni Association Platform cross platform app made using Flutter
 
 I'm Currently working on -
 <br>
 
-- 💻 [**Legacy**](https://github.com/once-human/SIH-Legacy) : An Alumni Association Platform cross platform app made using Flutter
 - 💡 [**Impulse OS**](https://github.com/impulse-os/impulseos-live) : An Arch-based distro aimed at making Linux approachable for beginners.
 
 ## 🔧 Technologies & Tools
