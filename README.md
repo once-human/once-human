@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-- **Age**: 19
+- **Age**: 20
 - **Location**: Pune, India
 - **Primary OS**: Vanilla Arch
 - **Wayland Compositor**: Hyprland
