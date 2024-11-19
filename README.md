@@ -1,7 +1,7 @@
 ![Banner](https://raw.githubusercontent.com/once-human/once-human/refs/heads/main/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e%20(1).gif)
 
 
-# 👋 नमस्ते, I'm once-human!
+# 👋 नमस्ते, I'm Onkar!
 
 ## 🚀 About Me
 
